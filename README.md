@@ -39,11 +39,11 @@ Surface plane
 https://www.waterstones.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Bestsellers
 <img src="images/Scherm1.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Homepagina
 <img src="images/scherm2.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
