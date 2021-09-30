@@ -75,26 +75,12 @@ Homepagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Ik heb voor deze voortgang alleen de html van de eerste pagina gemaakt. Dit was redelijk makkelijk aangezien het grootste deel van de site
+tot leven komt in de css.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Aangezien ik alleen nog html had was er geen feedback.
 
 </details>
 
@@ -109,16 +95,6 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
 
 
 ### Verslag van meeting
@@ -144,27 +120,12 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Mijn afbeeldingen hebben nog geen labels waardoor de screenreader het voorleest als "ongelabelde afbeelding".
 
 
 #### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+Tijdens het tabben kwam ik er achter dat grotendeels van mijn website niet tabbaar is. 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 </details>
 
