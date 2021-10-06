@@ -165,9 +165,9 @@ van "ja wat nu??" maar uiteindelijk viel ook dat wel mee.
 
 ### Screenshot(s)
 
-<img src="images/screenshot_pagina1.jpeg" width="375px" alt="omschrijving van de pagina">
+<img src="images/screenshot_pagina1.jpg" width="375px" alt="omschrijving van de pagina">
 
-<img src="images/screenshot_pagina2.jpeg" width="375px" alt="omschrijving van de pagina">
+<img src="images/screenshot_pagina2.jpg" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
