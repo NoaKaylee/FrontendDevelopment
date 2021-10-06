@@ -94,16 +94,12 @@ Aangezien ik alleen nog html had was er geen feedback.
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik had deze week al grotendeels van mijn eerste pagina af. In eerste instantie gebruikte ik veel classes en div en kwam er later pas achter dat je ook :nth-of-type kon gebruiken. 
+Dit was voor mij best wel omschakelen omdat ik het nog nooit gebruiky had en niet echt wist wat het inhield. Na een paar keer het te hebben gebruikt begreep ik het wel.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik kreeg de feedback om comments te gebruiken in mijn css en html voor meer overzicht.
 
 </details>
 
@@ -139,26 +135,14 @@ Tijdens het tabben kwam ik er achter dat grotendeels van mijn website niet tabba
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Ik had deze week mijn slideshow in javascript gemaakt en mijn animatie (hamburgermenu) met css. De slideshow die ik had gemaakt kwam van een code die ik 
+van google had. Deze code begreep ik niet zo goed en had al opgezocht hoe deze eventueel werkte.
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik kreeg de feedback om te kijken naar mijn javascript omdat ik dat niet begreep (eventueel veranderen naar iets simpelers). Verder stonden er nog spaties 
+in mijn foto's en die moest ik weghalen. Ook kreeg ik weer te horen dat ik comments moest neerzetten in mijn html en css. Omdat de website die ik 
+naamaak volledig in het engels is moest ik oo nog mijn html taal op engels zetten.
 
 </details>
 

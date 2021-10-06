@@ -129,8 +129,9 @@ main img:nth-of-type(1) {
   width: 100%;
 }
 
-.mySlider {
-  display: block;
+
+#slideshowfoto {
+  width: 100%;
 }
 
 h2 {
@@ -141,7 +142,7 @@ h2 {
   padding-left: 0.5em;
 }
 
-section:nth-of-type(3) h2 {
+section:nth-of-type(2) h2 {
   text-align: center;
 }
 
@@ -215,7 +216,7 @@ article h5 {
   margin: 0;
 }
 
-section:nth-of-type(4) h3 {
+section:nth-of-type(3) h3 {
   font-family: var(--main-font);
   font-style: italic ;
   letter-spacing: 0.1em;
@@ -223,14 +224,14 @@ section:nth-of-type(4) h3 {
   padding-left: 1em;
 }
 
-section:nth-of-type(4) p {
+section:nth-of-type(3) p {
   font-family: 'PT Sans', sans-serif;
   padding-left: 1em;
   padding-right: 5em;
   text-align: left;
 }
 
-section:nth-of-type(4) img:nth-of-type(2) {
+section:nth-of-type(3) img:nth-of-type(2) {
   position: absolute;
   width: 10%;
   right: 2em;
@@ -328,6 +329,26 @@ section.bestsellertitle a:nth-of-type(1) {
 
 section.bestsellertitle h4:nth-of-type(2) {
   font-style: italic;
+}
+
+section.rijtweeboeken h3 {
+  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+  margin: 0;
+  font-style: normal;
+  padding: 0;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+section.rijtweeboeken h3:nth-of-type(1) {
+  margin-top: 0.3em;
+  margin-bottom: 1em;
+}
+
+section.rijtweeboeken h3:nth-of-type(3) {
+  margin-top: 0.3em;
+  margin-bottom: 1em;
 }
 
 section.showmoreknop a {
