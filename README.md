@@ -156,11 +156,18 @@ naamaak volledig in het engels is moest ik oo nog mijn html taal op engels zette
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Na de feedback van afgelopen keren heb ik mijn javascript aangepast naar een code die ik wel begrijp. Ik ben best blij dat het
+ook werkt omdat ik dacht het te moeilijk zou zijn. Je ziet geen verschil tussen de simpele code die ik heb gebruikt en de 
+wat moeilijke die ik van internet had gehaald. 
+
+Ik had zelf wat sections weggehaald omdat deze onnodig waren en toen klopte mijn css even niet meer. Ik had even een momentje 
+van "ja wat nu??" maar uiteindelijk viel ook dat wel mee.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="images/screenshot_pagina1.jpeg" width="375px" alt="omschrijving van de pagina">
+
+<img src="images/screenshot_pagina2.jpeg" width="375px" alt="omschrijving van de pagina">
 
 </details>
 
@@ -175,8 +182,9 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
-
+1. https://codepen.io/erikterwan/pen/EVzeRP
+2. https://www.w3schools.com/cssref/func_cubic-bezier.asp
+3. https://www.w3schools.com/w3css/w3css_slideshow.asp
+4. https://www.includehelp.com/code-snippets/the-user-select-property-in-css.aspx
+5. (javascript) inleiding programmeren oefening timers en interval
 </details>
